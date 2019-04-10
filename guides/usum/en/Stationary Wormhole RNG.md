@@ -20,7 +20,7 @@ _Get your own perfect Legendary Pokemon!_
 
 The seed is shown at the top of the overlay with the label of "Init Seed:". In the following image the seed is `5DA5CA91`.
 
-![](https://i.imgur.com/FXtylJx.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-0.png)
 
 ## Step 2: Calibrating a basic timeline
 
@@ -42,15 +42,15 @@ Note: The NPC count is a calculation so when the fidget happens the NPC count on
 
 Boy:
 
-![](https://camo.githubusercontent.com/6319d400d9f87d6dceda41b36caad2bc2a03d905/68747470733a2f2f692e696d6775722e636f6d2f6d41794a3149372e676966) ![](https://camo.githubusercontent.com/dfd85f146d791e87030b5c402100fb64ea711837/68747470733a2f2f692e696d6775722e636f6d2f62587a704d42702e676966)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-1.gif) ![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-2.gif)
 
 Girl:
 
-![](https://camo.githubusercontent.com/783ad84d0ba843a82f8ceae7224f88d12278a35c/68747470733a2f2f692e696d6775722e636f6d2f637735787770432e676966) ![](https://camo.githubusercontent.com/4d46716f6dbda58e43acbb7a4837644e6b99bfd9/68747470733a2f2f692e696d6775722e636f6d2f4e6c78337278452e676966)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-3.gif) ![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-4.gif)
 
 My character mid fidget:
 
-![](https://i.imgur.com/lhAMvJk.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-5.png)
 
 2. Advance through the fidget using select until you notice a jump in frames that doesn't show on your timeline.
 
@@ -59,26 +59,26 @@ My character mid fidget:
 
 3. Once entered hit Calculate and you can see the frame jump accounted for in your timeline.
 
-![](https://i.imgur.com/VtG9yur.jpg) ![](https://i.imgur.com/09VjphH.jpg)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-6.jpg) ![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-7.jpg)
 
 ## Step 4: Hit your Target Frame
 
 1. Now you can search for your target by entering what you are looking for in the filters and hitting calculate.
 
-![](https://i.imgur.com/XMni0tq.jpg)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-8.jpg)
 
 2. Advance near your frame and pause.
 
-![](https://i.imgur.com/ro0o8yq.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-9.png)
 
 3. When you get to your frame it is time to initiate the encounter. For UBs this will be simply done by pressing "A" and for Legends you will want to hold forward and then press "A". You will want to save as close as possible to the spot that triggers the encounter (I am holding forward here when I press A to unpause).
 
-![](https://i.imgur.com/TJBM800.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-10.png)
 
 4. Profit???
    - Not so much
 
-![](https://i.imgur.com/z3vbvfe.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-11.png)
 
 So what happened?
 
@@ -88,7 +88,7 @@ This is okay and normal as each 3ds/save has its own delay that you will need to
 
 1. We can use the IVs, nature and PSV of the Pokemon we got to see what frame we actually hit. My target was 4973 and I hit 4969 (-4). So the delay I hit vs the default setting of the 3DSRNGTool is -4 or 152.
 
-![](https://i.imgur.com/3arvrHP.jpg)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-12.jpg)
 
 2. You will want to do this process a number of times with random targets and see what frame you hit relative to the default to find the delay you hit most often. You would then put that into the field after "Consider Delay". I adjusted the delay here to show how it would change the result.
 
@@ -96,10 +96,10 @@ This is okay and normal as each 3ds/save has its own delay that you will need to
 Note: I did this as an example, wait until you have found a common delay until you change your delay. This can take 10-20 times or more depending on your results.
 ```
 
-![](https://i.imgur.com/THTHPpK.jpg)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-13.jpg)
 
 3. Once you find which delay is most consistent for you and enter it in to the field try for some harder targets! Here is the shiny Groudon I hit after finding my consistent delay of 152. Be aware that Legendary Pokemon can be a bit more inconsistent than UBs. This is because you have to take a step before the animation occurs adding more variables that could affect the delay.
 
-![](https://i.imgur.com/SnhyISc.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/stationary-wormhole-rng-md-14.png)
 
 - Imgur library of all images including another set of images of getting to Groudon - [https://imgur.com/a/3ctOj](https://imgur.com/a/3ctOj)

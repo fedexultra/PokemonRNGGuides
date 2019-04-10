@@ -18,7 +18,7 @@ _RNG Gen 5 Roamers with an Emulator_
 Note: Do NOT have a save ready for this unless its TID Abuse'd already
 ```
 
-![](https://i.imgur.com/kDti9qn.png?1)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/roamers-emulator-md-0.png)
 
 ## Step 1: Finding a spread
 
@@ -34,7 +34,7 @@ Note: If you choose a different month, your Frames will be way more unstable/ran
 Note: This should take a while.
 ```
 
-![](https://i.imgur.com/InQlEBM.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/roamers-emulator-md-1.png)
 
 ## Step 2: Getting the target PID and Nature
 
@@ -46,7 +46,7 @@ If you only want IVs or Shininess and not both, feel free to skip this and the n
 
 Choose a Frame (recommended: at least 1500 Frames, perhaps 2000 if you are using a month other than 2 or 11.) Note the PID and of course, the Frame.
 
-![](https://i.imgur.com/PWl8qrW.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/roamers-emulator-md-2.png)
 
 ## Step 3: Save preperation
 
@@ -63,7 +63,7 @@ This is where you should save (The house on Route 7):
 
 ## Step 4: Calibration
 
-![](https://i.imgur.com/EyQ5Erw.png?1)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/roamers-emulator-md-4.png)
 
 On the original RNG Reporter Screen, you got a Frame Number, most likely between 1-6.
 
@@ -79,7 +79,7 @@ Note: It will most likely not have hit your Frame. You can check your PokeDex to
 
 5. Run into the Roamer and note the PID. You can use a Lua Script to see the PID or catch it and use PkHeX to view the stats.
 
-![](https://i.imgur.com/gKTHVxW.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/roamers-emulator-md-5.png)
 
 ## Step 5: Getting the target
 
@@ -99,7 +99,7 @@ Note: Exporting the results to .txt makes this easier, so you can use Ctrl + F t
 6. You will need to repeat this multiple times, but you will prevail eventually.
 7. Keep track of what Frames you have hit and what Frame you have pressed `A` on before in Notepad or Google Docs.
 
-![](https://i.imgur.com/WsjzEDQ.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/roamers-emulator-md-6.png)
 
 ## Celebrate!
 

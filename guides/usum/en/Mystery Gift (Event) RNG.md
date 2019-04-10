@@ -19,7 +19,7 @@ Make sure to stand exactly like the image below or the timeline may be off resul
 
 You should see the text: "You received xxx!"
 
-![](https://i.imgur.com/wmpzsKN.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/mystery-gift-event-rng-md-0.png)
 
 ## Step 2: Set Up 3DSRNGTool
 

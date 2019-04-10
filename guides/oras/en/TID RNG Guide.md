@@ -22,7 +22,7 @@ Note: If a save file is already present then it can be deleted by pressing `X+Y+
 3. 3DSRNGTool can search for multiple numbers in part or in full.
    - Finding a specific TID/SID/TSV combination will be very rare. It is advised to only RNG for one or the other.
 
-![](https://i.imgur.com/ZchDZmq.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/tid-rng-guide-md-0.png)
 
 In this example we will be getting the highlighted TID.
 
@@ -33,7 +33,7 @@ In this example we will be getting the highlighted TID.
    - The bot used later on can be used for this part by selecting "Mash A" option if setup early.
 3. Continue to play the game until this screen appears.
 
-![](https://i.imgur.com/FTlLDkp.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/tid-rng-guide-md-1.png)
 
 ## Step 3: Advancing the frames
 
@@ -52,7 +52,7 @@ Note: If having a network connection is not possible then manually fill in the t
    - This will fill in the tiny seeds.
    - This information can be manually filled in instead.
 
-![](https://i.imgur.com/q3iJXsU.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/tid-rng-guide-md-2.png)
 
 6. Press "Calculate" in the main window to receive a list of possible frames that you can RNG for.
 7. Increase or decrease range as needed.
@@ -79,5 +79,5 @@ The bot will stop at 1 frame before the target frame.
 Note: Press Start + Right then Select + Left to view TSV in the seventh party slot.
 ```
 
-![](https://i.imgur.com/ZDdZ4VN.png)
-![](https://i.imgur.com/fBzZhqg.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/tid-rng-guide-md-3.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/tid-rng-guide-md-4.png)

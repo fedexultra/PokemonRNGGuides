@@ -32,7 +32,7 @@ You can use any timer which can set two stages independently. The total time spa
 
 ## Step 1: Set Up EonTimer
 
-![](https://i.imgur.com/UiEVm7w.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/rn-ging-without-custom-firmware-md-0.png)
 
 We are using Gen 3 Mode of EonTimer
 
@@ -131,7 +131,7 @@ This is a variant of above basic steps. Sometimes, we might want to hit a high f
 
 And then check what frame you are on via the QR Scanner, since QR scanner needles also use the numbers generated from main RNG.
 
-![](https://i.imgur.com/K8YKtQB.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/rn-ging-without-custom-firmware-md-1.png)
 
 Go to `Gen7 Main RNG Tool`, check `Locate Current Frame via QR`, put the estimated current frame range below, input the needle sequence, until you get one result.
 

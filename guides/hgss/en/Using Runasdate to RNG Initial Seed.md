@@ -19,7 +19,7 @@ RunAsDate is a tool developed by nirsoft that allows any program to load with a 
 
 1. Launch RunAsDate
 2. Configure RunAsDate to look like the image below
-   ![](https://i.imgur.com/HeUoPmv.png)
+   ![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/using-runasdate-to-rng-initial-seed-md-0.png)
 
 ```
 Note: You'll never have to change that after. This is the universal RunAsDate configuration for RNG (Gen 3, 4 or 5), so you're almost done!

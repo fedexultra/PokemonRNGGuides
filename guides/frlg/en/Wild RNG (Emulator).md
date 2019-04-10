@@ -38,7 +38,7 @@ Note: FRLG uses the continue screen to generate different spreads every time the
    - You need to search the address at 0x02020000.
    - In order to find it enter "02020000" in the box in the upper-right. Hit Go and you'll be done!
 
-![](https://i.imgur.com/Vk4zYMm.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/wild-rng-emulator-md-0.png)
 
 The "1330" is my seed for this run of FRLG. It changes after pressing A / Start in the main screen. There's no real way to manipulate it for the moment, so you must go with what you have.
 
@@ -48,7 +48,7 @@ The "1330" is my seed for this run of FRLG. It changes after pressing A / Start 
 2. Enter in your target settings for the Pokemon you wish to search for (shiny, IVs, nature, encounter slots, etc)
 3. Click "Generate".
 
-![](https://i.imgur.com/LiBe4F2.png)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/wild-rng-emulator-md-1.png)
 
 If your RNG Reporter is setup correctly, it'll look similar to the above. In my case, I just searched for Shiny Only.
 

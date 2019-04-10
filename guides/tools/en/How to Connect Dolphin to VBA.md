@@ -27,15 +27,15 @@ Note: This link is very unstable. It does not work 100% of the time due to timin
 
 1. Go to GBA options and check "use bios file"
 
-![](https://i.imgur.com/SkW6FLW.png?1)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/how-to-connect-dolphin-to-vba-md-0.png)
 
 2. Click configure and select the bios file to be used
 
-![](http://imgur.com/90PX5wX.png?1)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/how-to-connect-dolphin-to-vba-md-1.png)
 
 3. Specify gamecube link
 
-![](http://imgur.com/i5CBXxB.png?1)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/how-to-connect-dolphin-to-vba-md-2.png)
 
 3. Start the network link
 
@@ -43,7 +43,7 @@ Note: This link is very unstable. It does not work 100% of the time due to timin
 
 1. Change port 2 to GBA
 
-![](http://imgur.com/kRKtIVz.png?1)
+![](https://github.com/zaksabeast/PokemonRNGGuides/raw/master/images/how-to-connect-dolphin-to-vba-md-3.png)
 
 ## Step 3: Making the connection
 
